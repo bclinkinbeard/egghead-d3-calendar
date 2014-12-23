@@ -5,7 +5,7 @@ egghead-d3-calendar
 
 You can view the final product of this lesson [here](http://jsbin.com/ketiju/1/edit?css,js,output).
 
-## Building the project
+### Building the project
 
 1. [Install Node.js](http://nodejs.org/) (and npm, which is included with Node)
 2. Clone this repository with `git clone git@github.com:bclinkinbeard/egghead-d3-calendar.git`
