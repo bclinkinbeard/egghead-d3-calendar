@@ -1,0 +1,25 @@
+{
+  "name": "basic-calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "atomify"
+  },
+  "atomify": {
+    "js": "index.js",
+    "css": "index.css",
+    "server": {
+      "lr": true
+    }
+  },
+  "keywords": [],
+  "author": "Ben Clinkinbeard <ben.clinkinbeard@gmail.com> (http://benclinkinbeard.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "atomify": "^6.0.3",
+    "calendar": "^0.1.0",
+    "d3": "^3.5.2",
+    "resrcify": "^1.1.3"
+  }
+}

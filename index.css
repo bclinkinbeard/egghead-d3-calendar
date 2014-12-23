@@ -1,0 +1,16 @@
+#calendar {
+  width: 600px;
+  height: 400px;
+  border-collapse: collapse;
+}
+
+#calendar tbody td {
+  border: 1px solid black;
+  text-align: right;
+  vertical-align: top;
+  width: 14%;
+}
+
+#calendar td.empty {
+  border: none;
+}
